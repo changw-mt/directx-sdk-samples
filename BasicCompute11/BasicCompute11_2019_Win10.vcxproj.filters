@@ -10,10 +10,8 @@
     <ClCompile Include="BasicCompute11.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="BasicCompute11.hlsl">
+    <FxCompile Include="BasicCompute11.hlsl">
       <Filter>Shaders</Filter>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
+    </FxCompile>
   </ItemGroup>
 </Project>
